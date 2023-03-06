@@ -68,7 +68,7 @@ Mówią: szmal określa byt, trzymaj tak
 Am                G              Dm           F
 Twarde łokcie pomogą Ci i giętki kark
  
-[Pre-Chorus]
+[Przejście]
 Am G
    Czy to już znasz, kochanie
 Am G
@@ -78,7 +78,7 @@ Am G
 Am G
    Czy zechcesz wierzyć mnie
  
-[Chorus]
+[Refren]
 F          C      G Dm
 Słodkiego, miłego życia
 F           C       G Am
@@ -88,7 +88,7 @@ Słodkiego, miłego życia
 F           C       G Am
 Jest tyle gór do zdobycia
  
-[Verse 2]
+[Zwrotka]
 Am                G              Dm           F
 Kto przegrany, nie liczy się, odpada z gry
 Am                G              Dm           F
@@ -98,7 +98,7 @@ A nagrodę dostaniesz za piękny kurs
 Am                G              Dm           F
 Rada głuchych nagrodzi cię bez zbędnych słów
  
-[Pre-Chorus]
+[Przejście]
 Am G
    Czy to już znasz, kochanie
 Am G
@@ -108,7 +108,7 @@ Am G
 Am G
    Czy zechcesz wierzyć mnie
  
-[Chorus]
+[Refren]
 F          C      G Dm
 Słodkiego, miłego życia
 F           C       G Am
