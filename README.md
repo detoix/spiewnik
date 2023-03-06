@@ -54,3 +54,67 @@ Kiedy pijesz coś, zawsze black and white
       C       G                A#    F
 Twe kolory to zawsze black and white
 ```
+
+# Kombi - Słodkiego Miłego Życia
+
+```
+[Zwrotka]
+Am                G              Dm           F
+Dobre stopnie za chamstwo masz, to jest to
+Am                G              Dm           F
+W nowym zwarciu za faulem faul, nim gruchnie gong
+Am                G              Dm           F
+Mówią: szmal określa byt, trzymaj tak
+Am                G              Dm           F
+Twarde łokcie pomogą Ci i giętki kark
+ 
+[Pre-Chorus]
+Am G
+   Czy to już znasz, kochanie
+Am G
+   Czy nie wiesz, jak to jest
+Am G
+   Czy wierzysz im bez granic
+Am G
+   Czy zechcesz wierzyć mnie
+ 
+[Chorus]
+F          C      G Dm
+Słodkiego, miłego życia
+F           C       G Am
+Bez chłodu, głodu i bicia
+F          C      G Dm
+Słodkiego, miłego życia
+F           C       G Am
+Jest tyle gór do zdobycia
+ 
+[Verse 2]
+Am                G              Dm           F
+Kto przegrany, nie liczy się, odpada z gry
+Am                G              Dm           F
+Całuj klamkę, pohamuj wstręt, pohamuj sny
+Am                G              Dm           F
+A nagrodę dostaniesz za piękny kurs
+Am                G              Dm           F
+Rada głuchych nagrodzi cię bez zbędnych słów
+ 
+[Pre-Chorus]
+Am G
+   Czy to już znasz, kochanie
+Am G
+   Czy nie wiesz, jak to jest
+Am G
+   Czy wierzysz im bez granic
+Am G
+   Czy zechcesz wierzyć mnie
+ 
+[Chorus]
+F          C      G Dm
+Słodkiego, miłego życia
+F           C       G Am
+Bez chłodu, głodu i bicia
+F          C      G Dm
+Słodkiego, miłego życia
+F           C       G Am
+Jest tyle gór do zdobycia
+```
