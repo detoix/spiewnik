@@ -8,6 +8,7 @@
 8. [Dwa Plus Jeden - Wstawaj szkoda dnia](#dwa-plus-jeden---wstawaj-szkoda-dnia)
 9. [Krzyś - Wszystkie rzeki prowadzą do spływowa](#krzyś---wszystkie-rzeki-prowadzą-do-spływowa)
 10. [Krzyś - O bitkojnie](#krzyś---o-bitkojnie)
+11. [Krzyś - Piosenka dla Kasi](#krzyś---piosenka-dla-kasi)
 
 # Kombi - Black and White
 
@@ -645,4 +646,39 @@ Mogłem go kupić i czekać na hossę 		e C D
 Ale wszystko chuj			 	e D C
 Bitcoin nie jest mój 			e D C
 Ciśnienie mi skacze…
+```
+
+# Krzyś - Piosenka dla Kasi
+```
+[Zwrotka]
+Znów szukam kluczy pytam kochanie	A E h
+czy nie widziałaś ich może		A E h
+a ona patrzy z politowaniem		A E h  
+bo przecież leżą na stole		A E h
+
+[Refren]
+Więc kiedy mówi			        A E
+Chodź i mnie przytul			f# E D
+Kup czekoladę mi			A E c#
+Biegnę do sklepu			D E
+Po ten artykuł				f# E D
+Za chwilę wracam i już pukam do drzwi	d A
+
+[Zwrotka]
+W przepisie przecież piszą wyraźnie	A E h
+Lecz ona skądś to wie			A E h
+Że zamiast gruszek można dać jabłek	A E h  
+I też będzie pyszne			A E h
+
+[Refren]
+Więc kiedy mówi…
+
+[Zwrotka]
+Za siódmą górą, za siódmą rzeką		A E h
+Zanim zakwitną bazie			A E h
+I zanim gile się zorientują		A E h  
+Lądują na jej obrazie			A E h
+
+[Refren]
+Więc kiedy mówi…
 ```
