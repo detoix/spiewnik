@@ -1,8 +1,9 @@
 1. [Kombi - Black and White](#kombi---black-and-white)
-2. [Kombi - Słodkiego Miłego Życia](#kombi---s%C5%82odkiego-mi%C5%82ego-%C5%BCycia)
+2. [Kombi - Słodkiego miłego życia](#kombi---s%C5%82odkiego-mi%C5%82ego-%C5%BCycia)
 3. [Dolly Parton - Jolene](#dolly-parton---jolene)
 4. [Lucjusz Michał Kowalczyk - Lady Mary](#lucjusz-michał-kowalczyk---lady-mary)
 5. [Jeanette - Poque te vas](#jeanette---porque-te-vas)
+6. [Krzysztof Krawczyk - Bo jesteś ty(#)
 
 # Kombi - Black and White
 
@@ -58,7 +59,7 @@ Kiedy pijesz coś, zawsze black and white
 Twe kolory to zawsze black and white
 ```
 
-# Kombi - Słodkiego Miłego Życia
+# Kombi - Słodkiego miłego życia
 
 ```
 [Zwrotka]
@@ -327,4 +328,67 @@ Junto a la estacion llorare igual que un nino
 porque te vas
 E7          Am  E7          Am     N.C.      Am
   porque te vas   porque te vas    porque te vas
+```
+
+# Krzysztof Krawczyk - Bo jesteś ty
+```
+[Verse]
+            F     Em          Am
+Na zewnątrz mgła, tylko ziąb i deszcz
+           F       Em             Am
+A dla mnie świat w ciepłym świetle świec
+          F  Em         Am
+Powietrze ma elektryczny smak
+              F     Em          Am
+Chciałbym tak trwać nawet tysiąc lat
+ 
+ 
+[Chorus}
+          C
+Bo jesteś Ty
+                       G
+Znów przy mnie budzisz się
+          Em
+Bo jesteś Ty
+               Am
+I wciąż czuję, że...
+          C
+Bo jesteś Ty
+                   G
+Cóż więcej mógłbym chcieć?
+          Em
+Bo jesteś tu
+                Am
+I proszę zostań już
+ 
+F Em Am  x4
+ 
+ 
+[Verse]
+             F   Em             Am
+Ja chciałbym tak zawsze biec pod wiatr
+           F    Em             Am
+Nie liczyć dni, ciągle zmieniać twarz
+           F    Em          Am
+Sprawić by czas wciąż omijał mnie
+            F   Em            Am
+Wszystko to już dziś nie liczy się
+ 
+[Chorus]
+          C
+Bo jesteś Ty
+                 G
+Zaczynasz ze mną dzień
+          Em
+Bo jesteś wciąż
+                Am
+Gdy zaczyna się noc
+             C
+Już wszystko mam
+                   G
+Cóż więcej mógłbym chcieć?
+          Em
+Bo jesteś Ty
+            Am
+I zawsze tu bądź
 ```
