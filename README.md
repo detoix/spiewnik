@@ -7,6 +7,7 @@
 7. [Dwa Plus Jeden - Iść w stronę słońca](#dwa-plus-jeden---iść-w-stronę-słońca)
 8. [Dwa Plus Jeden - Wstawaj szkoda dnia](#dwa-plus-jeden---wstawaj-szkoda-dnia)
 9. [Krzyś - Wszystkie rzeki prowadzą do spływowa](#krzyś---wszystkie-rzeki-prowadzą-do-spływowa)
+10. [Krzyś - O bitkojnie](#krzyś---o-bitkojnie)
 
 # Kombi - Black and White
 
@@ -613,4 +614,35 @@ A tych rzek chyba jest ze sto
 Gdybyś tylko kiedyś chciał spróbować
       Am    G             C
 Tutaj możesz swój odmienić los
+```
+
+# Krzyś - O bitkojnie
+```
+[Zwrotka]
+Em        C   D Em
+Miałbym tysięcy sto
+Em            G   D    Em
+Gdybym dziś sprzedawał go
+Em                C           D
+Za te pieniądze objechał bym Chiny
+Em                C           D
+I zostawiłbym jeszcze dla dziewczyny
+Em     D      C
+Ale wszystko chuj
+Em     D         C
+Bitcoin nie jest mój
+
+[Refren]
+C       D            Em         C   G
+Ciśnienie mi skacze kiedy cenę zobaczę
+Nie kupiłem jak tani był			C D a
+Jutro muszę iść do pracy		C D G D a H e
+Jutro muszę iść do pracy		C D G D a H e
+Mogło być różowo tak 			e C D e
+Gdybym wiedział co i jak	 		G D e
+Przecież to wszystko było takie proste 	e C D
+Mogłem go kupić i czekać na hossę 		e C D
+Ale wszystko chuj			 	e D C
+Bitcoin nie jest mój 			e D C
+Ciśnienie mi skacze…
 ```
