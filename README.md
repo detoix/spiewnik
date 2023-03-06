@@ -6,6 +6,7 @@
 6. [Krzysztof Krawczyk - Bo jesteś ty](#krzysztof-krawczyk---bo-jesteś-ty)
 7. [Dwa Plus Jeden - Iść w stronę słońca](#dwa-plus-jeden---iść-w-stronę-słońca)
 8. [Dwa Plus Jeden - Wstawaj szkoda dnia](#dwa-plus-jeden---wstawaj-szkoda-dnia)
+9. [Krzyś - Wszystkie rzeki prowadzą do spływowa](#krzyś---wszystkie-rzeki-prowadzą-do-spływowa)
 
 # Kombi - Black and White
 
@@ -502,4 +503,117 @@ Czekają wiatry nie schwytane, a każdy woła w twoją stronę:
 Wstawaj, szkoda dnia! Wstawaj, szkoda dnia!
  C               E    F        G      C    Csus4 C
 Wstawaj, szkoda dnia! Wstawaj, szkoda dnia!
+```
+
+# Krzyś - Wszystkie rzeki prowadzą do spływowa
+```
+[Verse 1]
+ 
+      Am  G            C
+Do Spływowa rzeka cię prowadzi
+        Am    G              C
+Czujesz jakbyś złapał w żagle wiatr
+      F    G             Am
+Dawno temu ojciec mi poradził
+        Dm                G
+Płyń tą rzeką poznasz inny świat
+ 
+[Verse 2]
+ 
+         Am        G             C
+Gdy ktoś powie ta przygoda nie jest twoja
+     Am    G          C
+Ty lądowy szczurze pakuj się raz dwa
+         F              G           Am
+Powiedz, że dziś wieczór gitara jest moja
+      F                G    C
+A ty słuchaj jak przepięknie gra
+ 
+[Chorus ]
+          C        F           C
+Wszystkie rzeki prowadzą do Spływowa
+      Am  G           C
+A w Spływowie masz przyjaciół moc
+       Am             G           C
+Kto tu raz przyjechał, nigdy nie żałował
+     Am   G           C
+I na pewno wróci tu za rok
+ 
+          C        F           C
+Wszystkie rzeki prowadzą do Spływowa
+       Am  G             C
+A tych rzek chyba jest ze sto
+       Am   G                 C
+Gdybyś tylko kiedyś chciał spróbować
+      Am    G             C
+Tutaj możesz swój odmienić los
+ 
+[Verse 3]
+ 
+        Am      G             C
+Zimna woda, świeży wiatru powiew
+       Am     G          C
+Zapach złotych falujących zbóż
+      F              G               Am
+Jeśli tylko zechcesz zawsze dotrzesz do niej
+      F          G             C
+Nawet gdyby wodowskazy przykrył nurt
+ 
+[Verse 4]
+      Am           G          C
+Gdy dopadną Cię nieszczęścia i złamią
+    Am          G             C
+Pozostanie tylko wzywać Posejdona
+     F           G              Am
+Ty powiosłuj ku jedynej swej przystani
+          F          G           C
+Wszystkie rzeki poprowadzą do Spływowa.
+ 
+[Chorus ]
+          C        F           C
+Wszystkie rzeki prowadzą do Spływowa
+      Am  G           C
+A w Spływowie masz przyjaciół moc
+       Am             G           C
+Kto tu raz przyjechał, nigdy nie żałował
+     Am   G           C
+I na pewno wróci tu za rok
+ 
+          C        F           C
+Wszystkie rzeki prowadzą do Spływowa
+       Am  G             C
+A tych rzek chyba jest ze sto
+       Am   G                 C
+Gdybyś tylko kiedyś chciał spróbować
+      Am    G             C
+Tutaj możesz swój odmienić los
+ 
+[Verse 5]
+       Am   G               C
+Gdy poznałeś czar tych kilku dni
+          Am    G             C
+Chcesz się umyć, wkurwia cię pogoda
+         F     G           Am
+Lecz nie muszę chyba mówić Ci
+      F            G     C
+Dokąd teraz nas prowadzi woda
+ 
+[Chorus ]
+          C        F           C
+Wszystkie rzeki prowadzą do Spływowa
+      Am  G           C
+A w Spływowie masz przyjaciół moc
+       Am             G           C
+Kto tu raz przyjechał, nigdy nie żałował
+     Am   G           C
+I na pewno wróci tu za rok
+ 
+          C        F           C
+Wszystkie rzeki prowadzą do Spływowa
+       Am  G             C
+A tych rzek chyba jest ze sto
+       Am   G                 C
+Gdybyś tylko kiedyś chciał spróbować
+      Am    G             C
+Tutaj możesz swój odmienić los
 ```
