@@ -11,7 +11,7 @@ Dm Dm Dm G
  
  
 [Zwrotka 1]
-C            G             Am        F
+C            G             Am        F  
 Żyjesz jak rakieta, wręcz uwielbiasz start
 C             G                 A#     F
 Mówią: mostów nie pal, śmiechem gasisz strach
