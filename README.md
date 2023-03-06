@@ -3,7 +3,7 @@
 3. [Dolly Parton - Jolene](#dolly-parton---jolene)
 4. [Lucjusz Michał Kowalczyk - Lady Mary](#lucjusz-michał-kowalczyk---lady-mary)
 5. [Jeanette - Poque te vas](#jeanette---porque-te-vas)
-6. [Krzysztof Krawczyk - Bo jesteś ty(#)
+6. [Krzysztof Krawczyk - Bo jesteś ty](#krzysztof-krawczyk---bo-jesteś-ty)
 
 # Kombi - Black and White
 
