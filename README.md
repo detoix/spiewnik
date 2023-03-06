@@ -3,14 +3,9 @@
 
 # Kombi - Black and White
 
+C       G            a           F 
 Twój normalny dzień zawsze black and white
- 
-[solo]
-Dm Dm Dm G
-Dm Dm Dm G
- 
- 
-[Zwrotka 1]
+
 C            G             Am        F  
 Żyjesz jak rakieta, wręcz uwielbiasz start
 C             G                 A#     F
