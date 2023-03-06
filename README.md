@@ -1,4 +1,4 @@
-1. [Kombi - Black and White](#Kombi-Black-and-White)
+1. [Kombi - Black and White](#kombi---black-and-white)
 2. abc
 
 # Kombi - Black and White
