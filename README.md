@@ -508,7 +508,6 @@ Wstawaj, szkoda dnia! Wstawaj, szkoda dnia!
 # Krzyś - Wszystkie rzeki prowadzą do spływowa
 ```
 [Verse 1]
- 
       Am  G            C
 Do Spływowa rzeka cię prowadzi
         Am    G              C
@@ -519,7 +518,6 @@ Dawno temu ojciec mi poradził
 Płyń tą rzeką poznasz inny świat
  
 [Verse 2]
- 
          Am        G             C
 Gdy ktoś powie ta przygoda nie jest twoja
      Am    G          C
@@ -549,7 +547,6 @@ Gdybyś tylko kiedyś chciał spróbować
 Tutaj możesz swój odmienić los
  
 [Verse 3]
- 
         Am      G             C
 Zimna woda, świeży wiatru powiew
        Am     G          C
